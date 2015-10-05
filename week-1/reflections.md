@@ -40,3 +40,13 @@ I think the most important commands will be "pwd", "ls", "cd", "mkdir" and "mv".
 
 
 # Week 1.4 Reflection
+
+
+
+In week 1.4, I worked with GitHub for the first time.  I learned how to create a new repository on GitHub, which is as easy as pressing the "New Repository" button on your profile page, which you will then be prompted to input a repository name, whether you want it to be private or public, and options to add a license.
+
+If I then wanted to clone the repo to my actual computer, I could just use a "git clone URL_THAT_YOU_COPIED" command in bash.  That would clone the repo into the present working directory.
+
+I also learned about forking.  Forking is creating a copy of the repository to a different repository, it will bring over all the contents as opposed to starting from scratch.  By forking it to a new repo, they can modify the contents and continue to contribute to the project or use it for their own purposes.
+
+I didn't really have many difficulties setting up git and GitHub, they were all pretty simple and the tutorials were very clear.
