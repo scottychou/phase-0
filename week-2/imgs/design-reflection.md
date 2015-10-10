@@ -1,4 +1,4 @@
-![Alt text](/week-2/imgs/Scotts First Sitemap 1.0.png)
+![Alt text](/site-map.png)
 
 
     What are the 6 Phases of Web Design?
