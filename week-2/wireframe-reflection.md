@@ -1,2 +1,2 @@
-![blog wireframe](../../../../scottychou.github.io/blog/wireframe-blog-index.png)
+![blog wireframe](../../../../scottychou.github.io/blob/master/blog/wireframe-blog-index.png)
 
