@@ -1,12 +1,12 @@
-![3.1](imgs/3.1.jpg)
-![3.2](imgs/3.2.jpg)
-![3.3](imgs/3.3.jpg)
-![3.4](imgs/3.4.jpg)
-![3.5](imgs/3.5.jpg)
-![3.6](imgs/3.6.jpg)
-![3.7](imgs/3.7.jpg)
-![3.8](imgs/3.8.jpg)
-![3.9](imgs/3.9.jpg)    
+![3.1](imgs/3.1.JPG)
+![3.2](imgs/3.2.JPG)
+![3.3](imgs/3.3.JPG)
+![3.4](imgs/3.4.JPG)
+![3.5](imgs/3.5.JPG)
+![3.6](imgs/3.6.JPG)
+![3.7](imgs/3.7.JPG)
+![3.8](imgs/3.8.JPG)
+
 
 
     How can you use Chrome's DevTools inspector to help you format or position elements?
@@ -22,13 +22,16 @@
 
     What are the differences between Absolute, Fixed, Static, and Relative positioning? Which did you find easiest to use? Which was most difficult?
 
-static
+    static
     This keyword lets the element use the normal behavior, that is it is laid out in its current position in the flow.  The top, right, bottom, left and z-index properties do not apply.
-relative
+    
+    relative
     This keyword lays out all elements as though the element were not positioned, and then adjust the element's position, without changing layout (and thus leaving a gap for the element where it would have been had it not been positioned). The effect of position:relative on table-*-group, table-row, table-column, table-cell, and table-caption elements is undefined.
-absolute
+
+    absolute
     Do not leave space for the element. Instead, position it at a specified position relative to its closest positioned ancestor or to the containing block. Absolutely positioned boxes can have margins, they do not collapse with any other margins.
-fixed
+
+    fixed
     Do not leave space for the element. Instead, position it at a specified position relative to the screen's viewport and don't move it when scrolled. When printing, position it at that fixed position on every page. This value always create a new stacking context. 
 
     -It was easiest to use fixed positioning, because it means that it is always in the same spot and doesn't move.  Relative positioning is the most difficult because it has the most variables involved.
