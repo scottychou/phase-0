@@ -46,8 +46,10 @@ puts 10*365*24*60
     How was this challenge? Did you get a good review of some of the basics?
     This challenge was easy, it was great review of what we learned for the admissions part of DBC.
 
-    https://github.com/scottychou/phase-0/blob/master/week-4/defining-variables.rb
+   
 
-    https://github.com/scottychou/phase-0/blob/master/week-4/simple-string.rb
+https://github.com/scottychou/phase-0/blob/master/week-4/defining-variables.rb
 
-    https://github.com/scottychouphase-0/blob/master/week-4/basic-math.rb
+https://github.com/scottychou/phase-0/blob/master/week-4/simple-string.rb
+
+https://github.com/scottychouphase-0/blob/master/week-4/basic-math.rb
