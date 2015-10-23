@@ -20,6 +20,11 @@ favorite = gets.chomp.to_i
 favorite2= favorite + 1
 puts favorite2.to_s + " is a bigger and better number"
 
+
+https://github.com/scottychou/phase-0/blob/master/week-4/address/my_solution.rb
+https://github.com/scottychou/phase-0/blob/master/week-4/math/my_solution.rb
+
+
 =begin
 
     How do you define a local variable?
