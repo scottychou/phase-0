@@ -13,10 +13,23 @@
 
 # 0. Pseudocode
 
+=begin
 # What is the input?
+Input accepts 3 arguments 1-array, 2-minimum size of array, 3-optional filler value
 # What is the output? (i.e. What should the code return?)
+Code will output the array up to the minimum size of the array and use filler value if needed.
 # What are the steps needed to solve the problem?
-
+Destructive
+1. DEF method with three parameter
+2. IF minimum size is <= array length return array
+3. ELSE add additional elements up to minimum size and use filler value if needed
+4. Modify original array permanently
+Non-Destructive
+1. DEF method with three parameter
+2. IF minimum size is <= array length return array
+3. ELSE add additional elements up to minimum size and use filler value if needed
+4. Return copy of the new array
+=end
 
 # 1. Initial Solution
 =begin
