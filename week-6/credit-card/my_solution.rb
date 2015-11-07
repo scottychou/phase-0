@@ -180,3 +180,22 @@ end
 
 
 # Reflection
+=begin
+
+    What was the most difficult part of this challenge for you and your pair?
+    -Neither of us was well-versed in the material we needed for this week.  We did a lot of learning during
+    this assignment, and so, in the end, it took us about 4 hours to finish it all and refactor.  We didn't use
+    the class at all in our first run-through and just made it all in one big messy method.
+
+    What new methods did you find to help you when you refactored?
+    We broke our problem out into several different methods to help keep organized, and make our code
+    better suited for reusability.  We used the inject method which basically helped us add all our numbers together,
+    and then we used the flatten method to condense our array of arrays into just one array.
+    
+
+    What concepts or learnings were you able to solidify in this challenge?
+    I finally am beginning to learn how classes and instance variables work.  These are things that are new to me.
+    I am figuring out when and where to use them, and why and why I can't.  In general, I am just
+    getting more comfortable in writing good code that is readable.
+
+=end
