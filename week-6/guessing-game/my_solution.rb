@@ -6,9 +6,19 @@
 
 # Pseudocode
 
-# Input:
-# Output:
+# Input:an integer	
+# Output:true or false
 # Steps:
+=begin
+initialize a correct number
+define method .guess
+	if guess is greater than answer, then output high
+	if guess is lesser than answer, then output low
+	otherwise output correct
+define method .solved?
+	if answer == guess 
+		return true, else false
+=end
 
 
 # Initial Solution
