@@ -61,7 +61,7 @@ ORDER BY region_id;
 
 TABLE
 
-![stuff](Capture.jpg)
+![stuff](Capture.JPG)
 
 Reflection
 
