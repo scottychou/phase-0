@@ -6,7 +6,7 @@ This relationship is one to one because each element only has one atomic number,
 
 RELEASE 4
 
-![grocery](imgs/release-4.PNG)
+![grocery](imgs/release-4.png)
 
 Reflection
 
